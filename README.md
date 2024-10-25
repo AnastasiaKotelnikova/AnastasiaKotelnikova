@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @AnastasiaKotelnikova
 - 👀 I’m interested in Data Engineering!
-- 📫 How to reach me - TG https://t.me/nsktlnkv
+- 📫 How to reach me:
+    [Telegram](https://t.me/nsktlnkv)
+    [GMail](https://mail.google.com/mail/u/?authuser=nsktlnkv@gmail.com)
+    
 
 
 <!---
